@@ -52,7 +52,7 @@ public class CObjectBase :
     }
 
 
-    [Rename_Inspector("디버깅 필터")]
+    [EnumFlags]
     public EDebugFilter p_eDebugFilter = EDebugFilter.None;
 
     public CObserverSubject<Object_Activate_Arg> p_Event_OnActivate { get; private set; } = new CObserverSubject<Object_Activate_Arg>();
