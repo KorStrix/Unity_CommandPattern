@@ -2,6 +2,8 @@
 
 [유니티에서 커맨드 패턴 활용하기 글 링크](https://korstrix.github.io/unity/unitylibrary/designpattern/github/Command_Pattern/)
 
+![](https://github.com/KorStrix/Unity_CommandPattern/blob/master/Image_ForGithub/Replay.gif?raw=true)
+
 ## 연락처
 유니티 개발자 모임 카카오톡 & 디스코드 링크입니다.
 
